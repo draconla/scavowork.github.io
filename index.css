@@ -154,7 +154,7 @@ footer {
 
   margin-top: 70px;
 
-  margin-left: 30em;
+  margin-left: 32em;
   width: 10em;
   justify-content: space-between;
 
@@ -168,7 +168,8 @@ footer {
 #social-link>div {
   font-size: 25px;
 }
-#btm-tag{
+
+#btm-tag {
   margin-top: 30px;
 }
 
@@ -300,11 +301,12 @@ footer {
     padding: 40px;
     overflow: hidden;
 
-   }
-   .mid-sec-text-container{
-     margin-left:2em ;
-   }
-  
+  }
+
+  .mid-sec-text-container {
+    margin-left: 2em;
+  }
+
 
   .mid-sec-text {
     text-align: center;
@@ -331,6 +333,7 @@ footer {
 
   h3 {
     margin-left: 6em;
+    
   }
 
   #social-link {
@@ -354,20 +357,23 @@ footer {
 
 
 }
-@media (min-width:400px) and (max-width :900px){
-  .nav-bar{
-    width:27em;
+
+@media (min-width:400px) and (max-width :900px) {
+  .nav-bar {
+    width: 27em;
 
   }
-  .top-section-text{
+
+  .top-section-text {
     width: 8.5em;
   }
-  #top-btn{
+
+  #top-btn {
     margin-left: 11em;
   }
-  
-  
-  #social-link{
+
+
+  #social-link {
     right: 31em;
   }
 }
